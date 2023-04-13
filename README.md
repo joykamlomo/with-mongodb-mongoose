@@ -1,6 +1,6 @@
 # MongoDB and Mongoose with Next.js
 
-This example shows how you can use a MongoDB database to support your Next.js application.
+How you can use a MongoDB database to support your Next.js application.
 
 **Pet** is an application that allows users to add their pets' information (e.g., name, owner's name, diet, age, dislikes, likes, and photo). They can also delete it or edit it anytime.
 ```
@@ -34,15 +34,7 @@ Then set each variable on `.env.local`:
 ```bash
 npm install
 npm run dev
-
-# or
-
-yarn install
-yarn dev
+  
 ```
 
 Your app should be up and running on [http://localhost:3000](http://localhost:3000)! 
-
-## Deploy on Vercel
-
-You can deploy this app to the cloud with [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
